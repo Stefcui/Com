@@ -1,0 +1,296 @@
+.container-fluid {
+    position: relative;
+  }
+  
+  
+  
+  .about{
+    position: relative;
+    background-position: top;
+    background-size: cover;
+  }
+  
+  
+  
+  .about .sec5 {
+    position: relative;
+    z-index: 1;
+  }
+  
+  .about .sec5 .bg {
+    position: absolute;
+    top: 0;
+    right: 0%;
+    height: 0%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.84;
+  }
+  
+  .about .sec5 .bg1 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -3;
+    object-fit: cover;
+    object-position: top;
+  }
+  
+  .about .sec5 h3 {
+    font-size: 3rem;
+    text-align: center;
+    font-family: "popins-bold";
+    margin-bottom: 2rem;
+    max-width: 900px;
+    margin-inline: auto;
+    color: white;
+  }
+  
+  .about .sec5 .row:last-child {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .about .sec5 h4 {
+    text-align: center;
+    color: white;
+    font-family: "popins-bold";
+    font-size: 1.7rem;
+  }
+  
+  .about .sec5 p {
+    text-align: center;
+    max-width: 900px;
+    margin: auto;
+    margin-block: 1rem;
+    color: white;
+    opacity: 0.9;
+  }
+  
+  .about .sec5 a {
+    background: #4a87cd;
+    width: fit-content;
+    padding: 0.5rem 1rem;
+    margin-top: 1.5em;
+    display: block;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .about .sec5 .swiper {
+    width: 100%;
+  }
+  
+  .about .sec5 .swiper img {
+    width: 100%;
+    height: 3rem;
+    object-fit: contain;
+    padding: 0 2rem;
+  }
+  
+  .about .banner::before {
+    background: linear-gradient(
+      to right,
+      rgba(29, 102, 0, 0.525),
+      rgba(101, 4, 4, 0.573),
+      rgba(30, 8, 102, 0.573)
+    );
+  }
+  
+  
+  /*maruf's code*/
+  .about .glass .card {
+      position: relative !important;
+      overflow: hidden;
+  }
+  
+  .about .glass .card span:nth-child(1){
+      background: #ffda05;
+  top: 0;
+  left: -48%;
+  animation: 5s span1 infinite linear;
+  animation-delay: 1s;
+  }
+  
+  
+  
+  
+  .about .glass .card span:nth-child(3){
+  background: #800080;
+  right: -48%;
+  top: 0px;
+  animation: 5s span3 infinite linear;
+  }
+  
+  
+  
+  
+  /* Glass morphism */
+   .glass .cards p {
+    font-size: 0.85rem;
+  }
+  
+   .glass .row {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+   .glass .cards {
+    padding: 1rem 2rem;
+    margin: 1em;
+    text-align: center;
+    border: none;
+    border-radius: 1rem;
+  }
+  
+  
+   .glass .cards img {
+    aspect-ratio: 1;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 50%;
+    padding: 1rem;
+  }
+   .glass .cards h4 {
+    font-size: 1.3rem;
+    font-family: "popins-bold";
+  }
+  
+  .cards{
+    width: 300px !important;
+    backdrop-filter: blur(10px) !important;
+    padding: 5px;
+      cursor: pointer;
+      background-image: linear-gradient(90deg, rgba(129, 129, 129, 0.067), rgba(117, 116, 116, 0.145));
+      backdrop-filter: blur(16px) !important;    border-radius: 0.8em;
+      position: relative;
+      border: 2px outset rgb(223, 198, 198) !important;
+      box-shadow: 0 2px 6px #0001, 0 5px 15px #0005;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      overflow: hidden;
+      scroll-behavior: none;
+      transition: 0.5s cubic-bezier(0.42, 0.59, 0.49, 1.29);
+      border-bottom: 2px solid #fff3;
+      box-shadow: 0 2px 5px #0005;
+       margin-bottom: 70px !important;
+  }
+  
+  
+  @keyframes span1 {
+  0% {
+    top: -48%;
+    left: -48%;
+  }
+  25% {
+    top: -48%;
+    left: 98%;
+  }
+  50% {
+    top: 98%;
+    left: 98%;
+  }
+  75% {
+    top: 98%;
+    left: -48%;
+  }
+  100% {
+    top: -48%;
+    left: -48%;
+  }
+  }
+  
+  @keyframes span2 {
+  0% {
+    bottom: -48%;
+    right: -48%;
+  }
+  25% {
+    bottom: -48%;
+    right: 98%;
+  }
+  50% {
+    bottom: 98%;
+    right: 98%;
+  }
+  75% {
+    bottom: 98%;
+    right: -48%;
+  }
+  100% {
+    bottom: -48%;
+    right: -48%;
+  }
+  }
+  @keyframes span3 {
+  0% {
+    top: -48%;
+    left: -48%;
+  }
+  25% {
+    top: -48%;
+    left: 98%;
+  }
+  50% {
+    top: 98%;
+    left: 98%;
+  }
+  75% {
+    top: 98%;
+    left: -48%;
+  }
+  100% {
+    top: -48%;
+    left: -48%;
+  }
+  }
+  
+  @keyframes span4 {
+  0% {
+    bottom: -48%;
+    right: -48%;
+  }
+  25% {
+    bottom: -48%;
+    right: 98%;
+  }
+  50% {
+    bottom: 98%;
+    right: 98%;
+  }
+  75% {
+    bottom: 98%;
+    right: -48%;
+  }
+  100% {
+    bottom: -48%;
+    right: -48%;
+  }
+  }
+  
+  .margin-botttom{
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+  }
+  
+  @media screen and (max-width: 769px) {
+    .about .sec5 h3 {
+      color: white;
+    }
+  
+  }
+  .glass-bg{
+    position: absolute;
+    right: 0%;
+    width: 100%;
+    opacity: 0.96;
+
+  }
+  .glass{
+    padding-top: 200px;
+  }

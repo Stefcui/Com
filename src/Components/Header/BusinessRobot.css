@@ -1,0 +1,75 @@
+.fw-bold {
+  font-weight: 700!important;
+  color: #5aaef2;
+  letter-spacing: 2px;
+}
+.bh {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  z-index:1;
+
+}
+
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+
+
+
+/* new box */
+.box{
+  position: relative;
+  height: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  background-color: black;
+  border-radius: 12px;
+}
+.box span{
+border-radius: 20px;
+position: absolute;
+inset: 3px;
+background-color: #0c1022;
+z-index: 1;
+}
+.box .cont{
+position: relative;
+z-index: 2;
+color: white;
+}
+.box::after{
+content: '';
+position: absolute;
+width: 2000px;
+height: 2000px;
+background-image:conic-gradient(transparent,transparent,transparent,#d400dd);
+animation: animate  4s linear infinite ;
+animation-delay: -2s;
+}
+.box::before{
+content: '';
+position: absolute;
+width: 2000px;
+height: 2000px;
+background-image: conic-gradient(transparent,transparent,transparent,#00ccff);
+animation: animate 4s linear infinite ;
+}
+@keyframes animate {
+0%
+{
+transform: rotate(0deg);
+}
+100%
+{
+transform: rotate(360deg);
+}
+
+}
