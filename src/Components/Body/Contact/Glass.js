@@ -5,11 +5,6 @@ import './PageContact.css';
 const Glass = () => {
     return (
         <div className="about">
-    <div className="contact-glass">
-        <svg xmlns="../../assets/cd.jpg" viewBox="0 0 1440 319"><path fill="#ffffffe9" fill-opacity="1" d="M0,64L60,69.3C120,75,240,85,360,106.7C480,128,600,160,720,181.3C840,203,960,213,1080,197.3C1200,181,1320,139,1380,117.3L1440,96L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path></svg>
-
-
-    </div>
     
 
     <div className="container-fluid py-5 faq">

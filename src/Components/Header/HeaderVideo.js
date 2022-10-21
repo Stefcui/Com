@@ -3,10 +3,11 @@ import playButton from '../../assets/playbtn.png';
 import pauseButton from '../../assets/pausebtn.png';
 import muteButton from '../../assets/mutebtn.png';
 import './HeaderVideo.css';
-import HomeVideo from './HomeVideo';
+import HomeVideo from '../Home/HomeVideo';
 import { Route, Routes } from 'react-router-dom';
 import AboutVideo from './AboutVideo';
 import ContactVideo from './ContactVideo';
+import ServiceVideo from '../Service/ServiceVideo';
 
 
 const HeaderVideo = (props) => {
@@ -47,6 +48,7 @@ const HeaderVideo = (props) => {
                 <Routes>
             <Route path='/' element ={<HomeVideo/>}/>
             <Route path='/about' element ={<AboutVideo/>}/>
+            <Route path='/services' element ={<ServiceVideo/>}/>
             <Route path='/contact' element ={<ContactVideo/>}/>
             </Routes>
             </div>

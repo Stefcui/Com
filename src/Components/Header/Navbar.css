@@ -267,4 +267,7 @@
     transition-delay: 0s;
   
   }
-  
+  .fa-virus-covid:before {
+    content: "\e4a8";
+    color: #ea4343 !important;
+}

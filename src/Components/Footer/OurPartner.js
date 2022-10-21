@@ -18,7 +18,7 @@ import { Autoplay, Pagination, Navigation } from "swiper";
   {
 
    return (
-    <>
+    <div className="partner">
       <Swiper
         spaceBetween={30}
         slidesPerView={5}
@@ -42,14 +42,14 @@ import { Autoplay, Pagination, Navigation } from "swiper";
         }}
         navigation={true}
         modules={[Autoplay, Pagination, Navigation]}
-        className="mySwiper"
+        className="mySwiper "
       >
         {
-            Partners.map( pt => <SwiperSlide><img src={pt.img} alt="" srcset="" /></SwiperSlide> )
+            Partners.map( pt => <SwiperSlide  className="bullet"><img src={pt.img} alt="" srcset="" /></SwiperSlide> )
         }
         
       </Swiper>
-    </>
+    </div>
   );
     }
   export default  OurPartner;

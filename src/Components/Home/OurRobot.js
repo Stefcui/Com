@@ -153,7 +153,7 @@ if (el.checked) {
                     className="float1"
                   />
                   <img
-                    src={require("../../assets/Vector Smart Object1 copy 9.png")}
+                    src={require("../../assets/Vector Smart Object copy 9.png")}
                     alt=""
                     className="float2"
                   />

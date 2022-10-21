@@ -5,7 +5,8 @@ import { Routes, Route } from 'react-router-dom';
 import PageHome from '../Home/PageHome';
 import PageAbout from '../About/PageAbout';
 import PageContact from './Contact/PageContact';
-import Glass from './Contact/Glass';
+import PageService from './../Service/PageService';
+import PageDemonstration from '../Demonstration/PageDemonstration';
 
 
 
@@ -18,16 +19,13 @@ const Body = () => {
             <Routes>
             <Route path='/' element ={<PageHome/>}/>
             <Route path='/about' element ={<PageAbout/>}/>
+            <Route path='/services' element ={<PageService/>}/>
+            <Route path='/demonstration' element ={<PageDemonstration/>}/>
             <Route path='/contact' element ={<PageContact/>}/>
             </Routes>
 
             </section>
-            <Routes>
-            <Route path='/' element ={<About/>}/>
-            <Route path='/about' element ={<About/>}/>
-
-            <Route path='/contact' element ={<Glass/>}/>
-            </Routes>
+            <About></About>
 
         </section>
 

@@ -1,0 +1,330 @@
+.demo .sec1 {
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+  }
+  
+  .demo .sec1 .col-md-6 {
+    position: relative;
+  }
+  
+  .demo .sec1 form {
+    width: 100%;
+    background-color: #ffffff16;
+    color: rgb(0, 0, 0);
+    backdrop-filter: blur(10px);
+    padding: 2rem;
+    border-radius: 10px;
+    background: rgba(255, 255, 255,.1);
+    backdrop-filter: blur(2px);
+    border-radius: 0.7em;
+    border: 2px outset #fff5;
+    box-shadow: 0 2px 6px #0001, 0 5px 15px #0005;
+    transition: 0.5s cubic-bezier(0.42, 0.59, 0.49, 1.29);
+    border-bottom: 2px solid #fff3;
+    box-shadow: 0 2px 5px #0005;
+
+  }
+  .display{
+    position: relative;
+  }
+  .display img{
+    border-radius: 0.7rem;
+  }
+  
+  .demo .sec1 form p {
+    margin: 0.5rem 0 1rem;
+    opacity: 0.9;
+  }
+  
+  .demo .sec1 form button {
+    background-color: #4a87cd;
+    padding: 0.75em 2em;
+    font-family: "popins-medium";
+  }
+  
+  .demo .sec1 form input,
+  .demo .sec1 form textarea {
+    background: border-box;
+    border-radius: 8px;
+    color: white;
+  }
+  
+  .demo .sec1 form input::placeholder {
+    color: white;
+    opacity: 0.5;
+  }
+  
+  .demo .sec1 form label {
+    font-size: 0.8rem;
+    font-family: "open-sans-medium";
+    margin: 0;
+  }
+  
+  .demo .sec1 form label span {
+    color: #ed3333;
+  }
+  
+  .demo .sec1 h3 {
+    font-size: 2.5rem;
+    font-family: "popins-medium";
+    color: white;
+  }
+  
+  .demo .sec1 p {
+    font-family: "open-sans-medium";
+    margin:  0;
+    text-align: center;
+  }
+  
+  .demo .sec1 .deck {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5rem;
+  }
+  
+  .demo .sec1 .deck .item {
+    width: 200px;
+    aspect-ratio: 0.85;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "open-sans-medium";
+    text-align: center;
+    transition: 0.5s all ease;
+  }
+  
+  .demo .sec1 .deck .item img {
+    height: 50%;
+    padding: 1rem;
+  }
+  
+  .demo .sec1 .deck .item p {
+    margin: 0;
+    font-size: 0.9rem;
+  }
+  .demo .sec1 .deck .item:hover {
+    background-color: #4a87cd;
+    color: white;
+  }
+  
+  .demo .sec1 .deck .item:hover img {
+    filter: invert();
+  }
+  
+  .demo .sec3 {
+    position: relative;
+    z-index: 0;
+    overflow: hidden;
+    padding: 15rem 1rem 3rem;
+    background-color: #fbfbfd;
+  }
+  
+  .demo .sec3 .bg {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    height: 250%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.9;
+    transform: scaleX(-1);
+  }
+  
+  .demo .sec3 .bg1 {
+        position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -3;
+    object-fit: cover;
+    object-position: top;
+  }
+  
+  .demo .sec3::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to bottom, #fbfbfd, transparent);
+    z-index: -2;
+  }
+  
+  .demo .sec3 .row:last-child {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .demo .sec3 h6 {
+    text-align: center;
+    font-family: "popins-bold";
+    max-width: 769px;
+    margin: auto;
+    font-size: 0.9rem;
+    margin-bottom: 25vh;
+  }
+  
+  .demo .sec3 h4 {
+    text-align: center;
+    color: white;
+    font-family: "popins-bold";
+    font-size: 1.7rem;
+  }
+  
+  .demo .sec3 p {
+    text-align: center;
+    max-width: 900px;
+    margin: auto;
+    margin-block: 1rem;
+    color: white;
+    opacity: 0.9;
+  }
+  
+  .demo .sec3 a {
+    background: #4a87cd;
+    width: fit-content;
+    padding: 0.5rem 1rem;
+    margin-top: 1.5em;
+    display: block;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .demo .sec3 .swiper {
+    width: 100%;
+  }
+  
+  .demo .sec3 .swiper img {
+    width: 100%;
+    height: 3rem;
+    object-fit: contain;
+    padding: 0 2rem;
+  }
+  
+  .demo .banner::before {
+    background: linear-gradient(
+      to right,
+      rgba(2, 2, 110, 0.8),
+      rgba(2, 110, 45, 0.8),
+      rgba(134, 8, 8, 0.521)
+    );
+  }
+  .demo .sec1 form button {
+    padding: 0.5em 1.5em;
+    color: #0451aa;
+    font-size: 0.9rem;
+    font-family: "popins-bold";
+    background: none;
+    border: 1px solid rgb(12, 95, 172) ;
+    margin: 1em 0;
+    border-radius: 10px;
+    transition: 1s;
+  }
+  
+  .demo .sec1 button:hover {
+    background-color: #0451aa;
+    color: white;
+
+
+
+  }
+
+  
+  @media screen and (max-width: 769px) {
+    .demo .sec3 h6 {
+      margin-bottom: 50vh;
+    }
+  
+    .demo .sec1 form {
+      position: static;
+    }
+  }
+  .demo-text{
+    font-size: 2.1rem !important;
+      font-family:serif !important;
+      color: white;
+    text-align: center;
+    margin: 0 0  45px 0;
+    font-weight: 700;
+    padding: 10px 0;
+    text-transform: capitalize;
+  }
+  .demo-texts{
+    font-size: 2.2rem !important;
+      font-family: "popins-medium";
+      color: white;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+  }
+  .demo-video{
+    text-align: center;
+  }
+  .demo .center{
+    margin: 20px 0 100px  0 !important;
+  }
+  .demo .margin{
+    margin-top: 25px;
+  }
+  .demo .round{
+    border-radius: 15px;
+  }
+  .demo .paddig-top{
+        padding-top: 35px;
+  
+  }
+  .demo .box-shadow{
+    border-radius: 1rem;
+    backdrop-filter: blur(3px);
+    box-shadow: 0 2px 5px #0005;
+    border: 2px outset #fff5;
+    padding: 25px 14px;
+    background: rgba(255, 255, 255,.1);
+  }
+  .demo .section-header h4{
+    font-size: 32px ;
+      color: black ;
+    text-align: center;
+    margin: 40px 0;
+  }
+  .demo .section-header h5{
+    color: #237fe8;
+    font-family: "popins-bold";
+    font-size: 1.4rem;
+    margin-bottom: 0.5em;    
+      text-align: center;
+      text-transform: capitalize;
+    }
+    .demo .section-header p{
+    font-size: 16px ;
+    font-family: 'Roboto', sans-serif;
+      color: black ;
+    line-height: 25px;
+  
+  }
+
+  .elik h3{
+    color: #237fe8 !important;
+    font-family: "popins-bold";
+    font-size: 2.2rem !important;
+    margin-bottom: 0.5em
+  }
+  .elik{
+    font-size: large;
+  }
+  .elik p{
+    padding:0  20px ;
+
+  }

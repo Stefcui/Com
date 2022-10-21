@@ -38,20 +38,21 @@ const Navbar = () => {
                         </li>
                         <li className="nav-item" style={{ "--i": '#355bd5 ', "--j": '#cb90cd' }}>
                             <span className="icon"><ion-icon name="construct-outline"></ion-icon></span>
-                            <span className="title"><a className="nav-link " aria-current="page" href="/services.html">Services</a></span>
+                            <span className="title"><Link className="nav-link " aria-current="page" to="/services">Services</Link></span>
                         </li>
                         <li className="nav-item" style={{ "--i": ' #17b1bc', "--j": '#0c3d83' }}>
                             <span className="icon"><ion-icon name="accessibility-outline"></ion-icon></span>
-                            <span className="title"><a className="nav-link " aria-current="page" href="/demonstration.html">Demonstration</a></span>
-                        </li>
-                        <li className="nav-item" style={{ "--i": ' rgb(237, 75, 189)', "--j": 'rgb(54, 131, 209)' }}>
-                            <span className="icon"><ion-icon name="call-outline"></ion-icon></span>
-                            <span className="title"><Link className="nav-link " aria-current="page" to="/contact">Contact</Link></span>
+                            <span className="title"><Link className="nav-link " aria-current="page" to="/demonstration">Demonstration</Link></span>
                         </li>
                         <li className="nav-item" style={{ "--i": '#ed4264', "--j": '#e1cb90' }}>
                             <span className="icon"><i className="fa-solid fa-virus-covid"></i></span>
                             <span className="title"><a className="nav-link " aria-current="page" href="/products.html?id=8">Covid-19 Robots</a></span>
                         </li>
+                        <li className="nav-item" style={{ "--i": ' rgb(237, 75, 189)', "--j": 'rgb(54, 131, 209)' }}>
+                            <span className="icon"><ion-icon name="call-outline"></ion-icon></span>
+                            <span className="title"><Link className="nav-link " aria-current="page" to="/contact">Contact</Link></span>
+                        </li>
+
                         <div className="d-flex align-items-center">
                             <button className="search-toggle">
                                 <i className="fa-solid fa-magnifying-glass"></i>
