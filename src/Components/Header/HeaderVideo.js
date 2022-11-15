@@ -8,6 +8,9 @@ import { Route, Routes } from 'react-router-dom';
 import AboutVideo from './AboutVideo';
 import ContactVideo from './ContactVideo';
 import ServiceVideo from '../Service/ServiceVideo';
+import DemoVideo from '../Demonstration/DemoVideo';
+import ProductVideo from '../Product/ProductVideo';
+import CovidVideo from '../Covid-19/CovidVideo';
 
 
 const HeaderVideo = (props) => {
@@ -47,9 +50,13 @@ const HeaderVideo = (props) => {
                 </div>
                 <Routes>
             <Route path='/' element ={<HomeVideo/>}/>
-            <Route path='/about' element ={<AboutVideo/>}/>
-            <Route path='/services' element ={<ServiceVideo/>}/>
-            <Route path='/contact' element ={<ContactVideo/>}/>
+            <Route path='about' element ={<AboutVideo/>}/>
+            <Route path='services' element ={<ServiceVideo/>}/>
+            <Route path='products' element ={<ProductVideo/>}/>
+            <Route path='products/:pdkey'  element ={<ProductVideo/>}/>
+            <Route path='demonstration' element ={<DemoVideo/>}/>
+            <Route path='contact' element ={<ContactVideo/>}/>
+            <Route path='covid' element ={<CovidVideo/>}/>
             </Routes>
             </div>
 

@@ -3,17 +3,41 @@ import './App.css';
 
 import Header from './Components/Header/Header';
 import Footer from './Components/Footer/Footer';
-import Body from './Components/Body/Body';
+import { createContext, useState } from 'react';
+import MainBody from './Components/Body/MainBody';
+import TagManager from 'react-gtm-module'
+ 
+const tagManagerArgs = {
+  gtmId: 'GTM-TXPJCZF',
+}
+
+
+export  const CategoryContext=createContext();
+
 
 function App() {
-  return (
-    <>
 
-      <Header></Header>
-      <Body></Body>
+  
+    TagManager.initialize(tagManagerArgs)
+
+
+
+
+  const[ctIndex,setIndex]=useState(0);
+  const getIndex = (index)=>{
+    setIndex(index);
+    
+    
+  }
+
+  return (
+    <CategoryContext.Provider value={ctIndex}>
+
+      <Header onClickCategory={getIndex} ></Header>
+      <MainBody onClickCategory={getIndex} ></MainBody>
       <Footer></Footer>
 
-    </>
+    </CategoryContext.Provider>
   );
 }
 

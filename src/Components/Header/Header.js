@@ -2,14 +2,16 @@ import React from 'react';
 import BusinessRobot from './BusinessRobot';
 import HeaderVideo from './HeaderVideo';
 import Navbar from './Navbar';
-import aboutVideo from '../../assets/2_aboutus_video_header.mp4'
 
 
-const Header = () => {
+const Header = (props) => {
+    const categoryIndex=(index)=>{
+        props.onClickCategory(index);
+    }
     return (
         <div>
-            <Navbar></Navbar>
-            <HeaderVideo videolinl={aboutVideo} ></HeaderVideo>
+            <Navbar onct={categoryIndex} ></Navbar>
+            <HeaderVideo  ></HeaderVideo>
             <BusinessRobot></BusinessRobot>
         </div>
     );

@@ -7,21 +7,29 @@ import PageAbout from '../About/PageAbout';
 import PageContact from './Contact/PageContact';
 import PageService from './../Service/PageService';
 import PageDemonstration from '../Demonstration/PageDemonstration';
+import PageProduct from './../Product/PageProduct';
+import CovidPage from '../Covid-19/CovidPage';
 
 
 
-const Body = () => {
+const Body = (props) => {
+        
     return (
+
+    
         <section >
-            <img src={ require("../../assets/cd.jpg")} alt=""  className='main-img'/>
-            <section className='main-body'>
+            <img src={ require("../../assets/new.jpg")} alt=""  className='main-img'/>
+            <section className='main-body'  >
             <Social></Social>
             <Routes>
-            <Route path='/' element ={<PageHome/>}/>
-            <Route path='/about' element ={<PageAbout/>}/>
+            <Route path='/' element ={<PageHome />}/>
+            <Route path='about' element ={<PageAbout/>}/>
+            <Route path='products' element ={<PageProduct/>}/>
+            <Route  path='/products/:pdkey' element ={<PageProduct/>}/>
             <Route path='/services' element ={<PageService/>}/>
             <Route path='/demonstration' element ={<PageDemonstration/>}/>
-            <Route path='/contact' element ={<PageContact/>}/>
+            <Route path='covid' element ={<CovidPage/>}/>
+            <Route path='/contact' element ={<CovidPage/>}/>
             </Routes>
 
             </section>
@@ -29,7 +37,9 @@ const Body = () => {
 
         </section>
 
-      );
+    );
+
+      
 };
 
 export default Body;
