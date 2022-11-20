@@ -1,5 +1,5 @@
 import React from 'react';
-import covid from '../../assets/Covid Sm.mp4'
+import covid from '../../assets/videos/Covid Sm.mp4'
 
 const CovidVideo = () => {
     return (

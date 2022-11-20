@@ -1,5 +1,5 @@
 import React from 'react';
-import demo from '../../assets/Demonstration Page Sm.mp4'
+import demo from '../../assets/videos/Demonstration Page Sm.mp4'
 
 
 const DemoVideo = () => {

@@ -40,7 +40,7 @@ const Navbar = (props) => {
 
             <div className="container-fluid py-2 ">
                 <a className="navbar-brand" href="/">
-                    <img src={logo} alt="" />
+                    <img src={logo} alt="logo" />
                 </a>
                 <button
                     className="navbar-toggler"

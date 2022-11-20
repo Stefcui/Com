@@ -514,7 +514,7 @@ const AboutGlass = () => {
           <div className="container glass " >
             <div className="row " >
             <div  data-tilt data-tilt-glare data-tilt-max-glare="0.3" className=" animate hook2 cards">
-                <img src={require ("../../assets/Melr.fb1ae15b3df5ea4afb06 (1).jpg")} alt="" />
+                <img src={require ("../../assets/Melr.fb1ae15b3df5ea4afb06 (1).jpg")} alt="melr" />
                 <h4>Meleah Roche</h4>
                 <small className='glass-texts'>Owner and CEO</small>
 
@@ -525,7 +525,7 @@ const AboutGlass = () => {
 
             <div data-tilt data-tilt-glare data-tilt-max-glare="0.3" class=" animate hook2 cards">
              
-            <img src={require ("../../assets/Steve 1.5b8bc1688528e2f87881 (1).jpg")} alt="" />
+            <img src={require ("../../assets/Steve 1.5b8bc1688528e2f87881 (1).jpg")} alt="steve" />
              <h4>Steve Roche</h4>
              <small className='glass-texts'>Robot Consultant</small>
              <p>

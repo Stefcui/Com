@@ -1,5 +1,5 @@
 import React from 'react';
-import service from '../../assets/Services Page Sm.mp4'
+import service from '../../assets/videos/Services Page Sm.mp4'
 
 const ServiceVideo = () => {
     return (

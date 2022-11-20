@@ -5,7 +5,7 @@ import './BodyBackground.css'
 const BodyBackground = (props) => {
     return (
         <BodyBackground className='main-body'>
-            <img className='body-background' src={bodybackground} alt="" />
+            <img className='body-background' src={bodybackground} alt="wave" />
         </BodyBackground>
     );
 };

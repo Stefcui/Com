@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="container-fluid py-5 footer">
             <img
                 src={footer}
-                alt=""
+                alt="img"
                 className="bg"
             />
             <div className="container d-flex flex-column align-items-center">
@@ -17,7 +17,7 @@ const Footer = () => {
                     <img
                        
                         src={logo}
-                        alt=""
+                        alt="logo"
                     />
 
 

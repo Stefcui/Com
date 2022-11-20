@@ -38,13 +38,13 @@ const HeaderVideo = (props) => {
                     </label>
                     <ul>
                         <li id="play"  onClick={playHandler}>
-                            <img src= { playButton} alt=""  />
+                            <img src= { playButton} alt="play"  />
                         </li>
                         <li id="pause" onClick={pauseHandler}>
-                            <img src={pauseButton} alt="" />
+                            <img src={pauseButton} alt="pause" />
                         </li>
                         <li id="mute" onClick={muteHandler}>
-                            <img src={muteButton} alt="" />
+                            <img src={muteButton} alt="mute" />
                         </li>
                     </ul>
                 </div>

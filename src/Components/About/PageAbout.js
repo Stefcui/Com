@@ -29,12 +29,12 @@ const PageAbout = () => {
     return (
         <section className='about-page'>
                   <div className="container-fluid sec2 py-5">
-        <img src={ require("../../assets/Vector Smart Object copy 8.png")} alt="" className="bg1" />
-        <img src={ require("../../assets/Vector Smart Object.png")} alt="" className="bg2" />
+        <img src={ require("./../../assets/svg/half-circle.png")} alt="circle" className="bg1" />
+        <img src={ require("../../assets/svg/half-circle2.png")} alt="circle" className="bg2" />
         <div className="container">
           <div className="row align-items-center">
             <div className="col-md-6 col-12 animate hook4">
-                <img src={require("../../assets/standrobot.2de6cf10edb77051ecd5-min.png")} alt="" />
+                <img src={require("../../assets/standrobot.png")} alt="robot" />
             </div>
             <div className="col-md-6 col-12 py-5 px-3 animate hook2 text">
               <h2>ABOUT US</h2>
@@ -123,7 +123,7 @@ const PageAbout = () => {
           </div>
           <div className="row align-items-center flex-row-reverse">
             <div className="col-md-6 col-12 animate hook4">
-              <img src={ require("../../assets/sitrobot.fce50700f67200b24fe5-min.png")} alt="" />
+              <img src={ require("../../assets/sitrobot.png")} alt="robot" />
             </div>
             <div className="col-md-6 col-12 py-5 px-3 animate hook2 text">
               <h2>OUR VISION</h2>
@@ -198,7 +198,7 @@ const PageAbout = () => {
           </div>
           <div className="row row-cols-lg-2 row-cols-1">
             <div className="quality animate hook3">
-              <img src={require("../../assets/improveEdu.png")} alt="" />
+              <img src={require("../../assets/improveEdu.png")} alt="people" />
               <div>
                 <h4>Improving Education</h4>
                 <p>
@@ -210,7 +210,7 @@ const PageAbout = () => {
               </div>
             </div>
             <div className="quality animate hook3">
-              <img src={require("../../assets/improveManu.png")} alt="" />
+              <img src={require("../../assets/improveManu.png")} alt="tools" />
               <div>
                 <h4>Improving Manufacturing</h4>
                 <p>
@@ -221,7 +221,7 @@ const PageAbout = () => {
               </div>
             </div>
             <div className="quality animate hook3">
-              <img src={require("../../assets/healthcare.png")} alt="" />
+              <img src={require("../../assets/healthcare.png")} alt="health" />
               <div>
                 <h4>Enhancing Healthcare</h4>
                 <p>
@@ -233,7 +233,7 @@ const PageAbout = () => {
               </div>
             </div>
             <div className="quality animate hook3">
-              <img src={require("../../assets/boortingEcon.png")} alt="" />
+              <img src={require("../../assets/boortingEcon.png")} alt="box" />
               <div>
                 <h4>Boosting The Economy</h4>
                 <p>
@@ -243,7 +243,7 @@ const PageAbout = () => {
               </div>
             </div>
             <div className="quality animate hook3">
-              <img src={require("../../assets/ecohealth.png")} alt="" />
+              <img src={require("../../assets/ecohealth.png")} alt="tree" />
               <div>
                 <h4>Enhancing Eco-Health</h4>
                 <p>
@@ -254,7 +254,7 @@ const PageAbout = () => {
               </div>
             </div>
             <div className="quality animate hook3">
-              <img src={require("../../assets/improveCom.png")} alt="" />
+              <img src={require("../../assets/improveCom.png")} alt="headphone" />
               <div>
                 <h4>Improving Communication</h4>
                 <p>

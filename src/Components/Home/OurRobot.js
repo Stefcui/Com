@@ -53,7 +53,7 @@ if (el.checked) {
                       robotImages.disabilyRobots.map( pic => {
                         return (
                           <div className='img'>
-                            <Link to={`/products/${data[0].category}`}><img src={pic.img} key={pic.img} alt="" onClick={()=>IndexHnadler(0)} /></Link>
+                            <Link to={`/products/${data[0].category}`}><img src={pic.img} key={pic.img} alt="robot" onClick={()=>IndexHnadler(0)} /></Link>
                           
                             </div>
     
@@ -65,13 +65,13 @@ if (el.checked) {
 
                   </div>
                   <img
-                    src={require("../../assets/Vector Smart Object1 copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design2.png")}
+                    alt="robot"
                     className="float1"
                   />
                   <img
-                    src={require("../../assets/Vector Smart Object copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design1.png")}
+                    alt="robot"
                     className="float2"
                   />
                 </div>
@@ -149,7 +149,7 @@ if (el.checked) {
                       robotImages.agedCareRobots.map( pic => {
                         return (
                           <div className='img'>
-                            <Link to={`/products/${data[1].category}`}><img src={pic.img} key={pic.img} alt="" onClick={()=>IndexHnadler(1)}/></Link>
+                            <Link to={`/products/${data[1].category}`}><img src={pic.img} key={pic.img} alt="robot" onClick={()=>IndexHnadler(1)}/></Link>
                             </div>
     
                         )
@@ -160,13 +160,13 @@ if (el.checked) {
 
                   </div>
                   <img
-                    src={require("../../assets/Vector Smart Object1 copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design2.png")}
+                    alt="robot"
                     className="float2"
                   />
                   <img
-                    src={require("../../assets/Vector Smart Object copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design1.png")}
+                    alt="robot"
                     className="float1"
                   />
                 </div>
@@ -212,7 +212,7 @@ if (el.checked) {
                       robotImages.childCareRobots.map( pic => {
                         return (
                           <div className='img'>
-                            <Link to={`/products/${data[2].category}`} key={pic.img} ><img src={pic.img} key={pic.img} alt="" onClick={()=>IndexHnadler(2)} /></Link>
+                            <Link to={`/products/${data[2].category}`} key={pic.img} ><img src={pic.img} key={pic.img} alt="robot" onClick={()=>IndexHnadler(2)} /></Link>
                             </div>
     
                         )
@@ -223,13 +223,13 @@ if (el.checked) {
                     
                   </div>
                   <img
-                    src={require("../../assets/Vector Smart Object1 copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design2.png")}
+                    alt="robot"
                     className="float1"
                   />
                   <img
-                    src={require("../../assets/Vector Smart Object copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design1.png")}
+                    alt="robot"
                     className="float2"
                   />
                 </div>
@@ -269,7 +269,7 @@ if (el.checked) {
                       robotImages.companionRobots.map( pic => {
                         return (
                           <div className='img'>
-                            <Link to={`/products/${data[3].category}`}><img src={pic.img} key={pic.img} alt="" onClick={()=>IndexHnadler(3)} /></Link>
+                            <Link to={`/products/${data[3].category}`}><img src={pic.img} key={pic.img} alt="robot" onClick={()=>IndexHnadler(3)} /></Link>
                             </div>
     
                         )
@@ -280,13 +280,13 @@ if (el.checked) {
                     
                   </div>
                   <img
-                    src={require("../../assets/Vector Smart Object1 copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design2.png")}
+                    alt="robot"
                     className="float2"
                   />
                   <img
-                    src={require("../../assets/Vector Smart Object copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design1.png")}
+                    alt="robot"
                     className="float1"
                   />
                 </div>
@@ -333,7 +333,7 @@ if (el.checked) {
                       robotImages.domesticRobots.map( pic => {
                         return (
                           <div className='img'>
-                            <Link to={`/products/${data[4].category}`}><img src={pic.img} key={pic.img} alt="" onClick={()=>IndexHnadler(4)} /></Link>
+                            <Link to={`/products/${data[4].category}`}><img src={pic.img} key={pic.img} alt="robot" onClick={()=>IndexHnadler(4)} /></Link>
                             </div>
     
                         )
@@ -344,13 +344,13 @@ if (el.checked) {
                     
                   </div>
                   <img
-                    src={require("../../assets/Vector Smart Object1 copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design2.png")}
+                    alt="robot"
                     className="float1"
                   />
                   <img
-                    src={require("../../assets/Vector Smart Object copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design1.png")}
+                    alt="robot"
                     className="float2"
                   />
                 </div>
@@ -396,7 +396,7 @@ if (el.checked) {
                       robotImages.petRobots.map( pic => {
                         return (
                           <div className='img'>
-                            <Link to={`/products/${data[6].category}`}><img src={pic.img}  key={pic.img} alt=""  onClick={()=>IndexHnadler(6)} /></Link>
+                            <Link to={`/products/${data[6].category}`}><img src={pic.img}  key={pic.img} alt="robot"  onClick={()=>IndexHnadler(6)} /></Link>
                             </div>
     
                         )
@@ -407,13 +407,13 @@ if (el.checked) {
                     
                   </div>
                   <img
-                    src={require("../../assets/Vector Smart Object1 copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design2.png")}
+                    alt="robot"
                     className="float2"
                   />
                   <img
-                    src={require("../../assets/Vector Smart Object copy 9.png")}
-                    alt=""
+                    src={require("../../assets/design1.png")}
+                    alt="robot"
                     className="float1"
                   />
                 </div>
@@ -458,12 +458,12 @@ if (el.checked) {
 
       <div className="container-fluid sec2 ">
         <img
-          src={require("../../assets/Vector Smart Object copy 8.png")}
+          src={require("./../../assets/svg/half-circle.png")}
 
-          alt="" className="bg1" />
+          alt="robot" className="bg1" />
         <img
-          src={require("../../assets/Vector Smart Object.png")}
-          alt="" className="bg2" />
+          src={require("./../../assets/svg/half-circle2.png")}
+          alt="robot" className="bg2" />
         <div className="container">
           <h2>SERVICE WE PROVIDE</h2>
           <p className="pb-5 pt-2">
@@ -472,7 +472,7 @@ if (el.checked) {
           </p>
           <div className="row justify-content-around align-items-center">
             <div className="col-lg-5 col-sm-8 animate hook4 position-relative overflow-hidden py-6">
-              <img src={require("../../assets/predicting.png")} alt="" srcSet="" />
+              <img src={require("../../assets/predicting.png")} alt="robot" srcSet="" />
               <div className="anim"></div>
             </div>
             <div className="col-lg-6 col-sm-8 text py-3 animate hook2">
@@ -553,13 +553,13 @@ much space you have available.
               <label htmlFor="read2" className="reveal-btn">READ MORE</label>
             </div>
             <div className="col-lg-5 col-sm-8 animate hook4 position-relative overflow-hidden py-6">
-              <img src={require("../../assets/machine-learning.png")} alt="" srcSet="" />
+              <img src={require("../../assets/machine-learning.png")} alt="robot" srcSet="" />
               <div className="anim anim2"></div>
             </div>
           </div>
           <div className="row justify-content-around align-items-center margin-botttom">
             <div className="col-lg-5 col-sm-8 animate hook4 position-relative overflow-hidden py-6">
-              <img src={require("../../assets/automation.png")} alt="" srcSet="" />
+              <img src={require("../../assets/automation.png")} alt="robot" srcSet="" />
               <div className="anim anim3"></div>
             </div>
             <div className="col-lg-6 col-sm-8 text py-3 animate hook2 ">

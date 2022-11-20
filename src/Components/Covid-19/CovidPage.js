@@ -26,7 +26,7 @@ const CovidPage = () => {
             </div>
             <div className="col-md-6">
               <div className="rate">
-                <img src={require("../../assets/RatingStars.png")} alt="" />
+                <img src={require("../../assets/RatingStars.png")} alt="rating" />
                 <p id="rating">5</p>
               </div>
               <h3>Price: <span> {data[5].robots[0].price} </span></h3>
@@ -130,17 +130,17 @@ const CovidPage = () => {
             <div className="pdf">
             <div className="row certificate">
             <div className="col-md-6">
-                  <img src={require("../../assets/3rd pdf.png")} alt="" width="110px"/>
+                  <img src={require("../../assets/3rd pdf.png")} alt="pdf" width="110px"/>
                   <div>
-                  <a href={require('../../assets/AI-SRT301 - Certificate of Compliance.pdf')}>Certificate of Compliance</a>
+                  <a href={require('../../assets/pdf/AI-SRT301 - Certificate of Compliance.pdf')}>Certificate of Compliance</a>
 
                   </div>
                 </div>
 
             <div className="col-md-6">
-                  <img src={require("../../assets/4 pdf.png")} alt="" width="110px"/>
+                  <img src={require("../../assets/4 pdf.png")} alt="pdf" width="110px"/>
                   <div>
-                  <a href={require("../../assets/AI-SRT301 - Certificate of Compliance.pdf")}>Declaration of Conformity Certificate</a>
+                  <a href={require("../../assets/pdf/AI-SRT301 - Certificate of Compliance.pdf")}>Declaration of Conformity Certificate</a>
 
                   </div>
 
@@ -148,17 +148,17 @@ const CovidPage = () => {
 
               <div className="col-md-6">
 
-                  <img src={require("../../assets/Bacillus_subtilis.jpg")} alt=""  width="140px"/>
+                  <img src={require("../../assets/Bacillus_subtilis.jpg")} alt="subtilis"  width="140px"/>
                   <div>
-                  <a href={require("../../assets/Microbiology Detection Centre Results - Staphylococcus.pdf")}>Test of Killing Bacillus Subtilis Var Niger</a>
+                  <a href={require("../../assets/pdf/Microbiology Detection Centre Results - Staphylococcus.pdf")}>Test of Killing Bacillus Subtilis Var Niger</a>
 
                   </div>
 
                 </div>
                 <div className="col-md-6">
-                  <img src={require("../../assets/Staph.jpg")} alt="" width="110px"/>
+                  <img src={require("../../assets/Staph.jpg")} alt="staph" width="110px"/>
                   <div>
-                  <a href={require("../../assets/Microbiology Detection Centre Results - Staphylococcus.pdf")}>Test of Killing Bacillus Staphylococcus</a>
+                  <a href={require("../../assets/pdf/Microbiology Detection Centre Results - Staphylococcus.pdf")}>Test of Killing Bacillus Staphylococcus</a>
 
                   </div>
 

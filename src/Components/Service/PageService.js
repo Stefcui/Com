@@ -33,22 +33,22 @@ const PageService = () => {
 
                                 >
                                     <SwiperSlide>
-                                        <img src="./service/industries (1).png" alt='' />
+                                        <img src="./../../assets/industries/industries1.png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/industries (2).png" alt='' />
+                                        <img src="./../../assets/industries/industries (2).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/industries (3).png" alt='' />
+                                        <img src="./../../assets/industries/industries (3).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/industries (4).png" alt='' />
+                                        <img src="./../../assets/industries/industries (4).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/industries (5).png" alt='' />
+                                        <img src="./../../assets/industries/industries (5).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/industries (6).png" alt='' />
+                                        <img src="./../../assets/industries/industries (6).png" alt="robot" />
                                     </SwiperSlide>
                                 </Swiper>
                             </div>
@@ -106,49 +106,49 @@ const PageService = () => {
 
                                 >
                                     <SwiperSlide>
-                                        <img src="./service/aitech (2).png" alt='' />
+                                        <img src="./../../assets/aitech (2).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/autoxing.png" alt='' />
+                                        <img src="./../../assets/autoxing.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/buddy.png" alt='' />
+                                        <img src="./../../assets/buddy.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/coach.png" alt='' />
+                                        <img src="./../../assets/coach.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/disinfect.png" alt='' />
+                                        <img src="./../../assets/disinfect.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/ipal.png" alt='' />
+                                        <img src="./../../assets/ipal.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/library.png" alt='' />
+                                        <img src="./../../assets/library.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/nao.png" alt='' />
+                                        <img src="./../../assets/nao.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/orionstar (2).png" alt='' />
+                                        <img src="./../../assets/orionstar (2).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/pepper.png" alt='' />
+                                        <img src="./../../assets/pepper.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/reeman snail.png" alt='' />
+                                        <img src="./../../assets/reeman snail.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/retail_guide.png" alt='' />
+                                        <img src="./../../assets/retail_guide.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/samsung.png" alt='' />
+                                        <img src="./../../assets/samsung.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/stockbot.png" alt='' />
+                                        <img src="./../../assets/stockbot.png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/zenbo.png" alt='' />
+                                        <img src="./../../assets/zenbo.png" alt="img" />
                                     </SwiperSlide>
                                 </Swiper>
                             </div>
@@ -186,40 +186,40 @@ const PageService = () => {
 
                                 >
                                     <SwiperSlide>
-                                        <img src="./service/customer (1).png" alt='' />
+                                        <img src="./../../assets/customer/customer (1).png" alt="customer" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/customer (2).png" alt='' />
+                                        <img src="./../../assets/customer/customer (2).png" alt="customer" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/customer (3).png" alt='' />
+                                        <img src="./../../assets/customer/customer (3).png" alt="customer" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/customer (4).png" alt='' />
+                                        <img src="./../../assets/customer/customer (4).png" alt="customer" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/customer (5).png" alt='' />
+                                        <img src="./../../assets/customer/customer (5).png" alt="customer" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/customer (6).png" alt='' />
+                                        <img src="./../../assets/customer/customer (6).png" alt="customer" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/customer (7).png" alt='' />
+                                        <img src="./../../assets/customer/customer (7).png" alt="customer" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/customer (8).png" alt='' />
+                                        <img src="./../../assets/customer/customer (8).png" alt="customer" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/customer (9).png" alt='' />
+                                        <img src="./../../assets/customer/customer (9).png" alt="customer" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/customer (10).png" alt='' />
+                                        <img src="./../../assets/customer/customer (10).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/customer (11).png" alt='' />
+                                        <img src="./../../assets/customer/customer (11).png" alt="customer" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/customer (12).png" alt='' />
+                                        <img src="./../../assets/customer/customer (12).png" alt="customer" />
                                     </SwiperSlide>
                                 </Swiper>
 
@@ -257,43 +257,43 @@ const PageService = () => {
 
                                 >
                                     <SwiperSlide>
-                                        <img src="./service/food (13).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (13).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (1).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (1).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (2).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (2).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (3).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (3).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (4).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (4).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (5).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (5).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (6).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (6).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (7).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (7).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (8).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (8).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (9).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (9).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (10).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (10).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (11).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (11).png" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/food (12).png" alt='' />
+                                        <img src="./../../assets/foodRobots/food (12).png" alt="img" />
                                     </SwiperSlide>
                                 </Swiper>
 
@@ -331,49 +331,49 @@ const PageService = () => {
 
                                 >
                                     <SwiperSlide>
-                                        <img src="./service/vaccum.jpg" alt='' />
+                                        <img src="./../../assets/vaccum.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/unitree.jpg" alt='' />
+                                        <img src="./../../assets/unitree.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/zenbo (2).jpg" alt='' />
+                                        <img src="./../../assets/zenbo (2).jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/pudi d1.jpg" alt='' />
+                                        <img src="./../../assets/pudi d1.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/powerray.jpg" alt='' />
+                                        <img src="./../../assets/powerray.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/moxie.jpg" alt='' />
+                                        <img src="./../../assets/moxie.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/misa.jpg" alt='' />
+                                        <img src="./../../assets/misa.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/lynx.jpg" alt='' />
+                                        <img src="./../../assets/lynx.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/ipal.jpg" alt='' />
+                                        <img src="./../../assets/ipal.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/husq.jpg" alt='' />
+                                        <img src="./../../assets/husq.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/eilik.jpg" alt='' />
+                                        <img src="./../../assets/eilik.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/csjbot2.jpg" alt='' />
+                                        <img src="./../../assets/csjbot2.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/buddy.jpg" alt='' />
+                                        <img src="./../../assets/buddy.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/AutoXing.jpg" alt='' />
+                                        <img src="./../../assets/AutoXing.jpg" alt="img" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/aitech.jpg" alt='' />
+                                        <img src="./../../assets/aitech.jpg" alt="img" />
                                     </SwiperSlide>
                                 </Swiper>
 
@@ -411,40 +411,40 @@ const PageService = () => {
 
                                 >
                                     <SwiperSlide>
-                                        <img src="./service/child (1).png" alt='' />
+                                        <img src="./../../assets/child/child1.png" alt="child" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/child (2).png" alt='' />
+                                        <img src="./../../assets/child/child2.png" alt="child" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/child (3).png" alt='' />
+                                        <img src="./../../assets/child/child3.png" alt="child" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/child (4).png" alt='' />
+                                        <img src="./../../assets/child/child4.png" alt="child" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/child (5).png" alt='' />
+                                        <img src="./../../assets/child/child5.png" alt="child" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/child (7).png" alt='' />
+                                        <img src="./../../assets/child/child6.png" alt="child" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/child (8).png" alt='' />
+                                        <img src="./../../assets/child/child7.png" alt="child" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/child (9).png" alt='' />
+                                        <img src="./../../assets/child/child8.png" alt="child" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/child (10).png" alt='' />
+                                        <img src="./../../assets/child/child9.png" alt="child" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/child (11).png" alt='' />
+                                        <img src="./../../assets/child/child10.png" alt="child" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/child (12).png" alt='' />
+                                        <img src="./../../assets/child/child11.png" alt="child" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/child (13).png" alt='' />
+                                        <img src="./../../assets/child/child12.png" alt="child" />
                                     </SwiperSlide>
                                 </Swiper>
 
@@ -483,37 +483,37 @@ const PageService = () => {
 
                                 >
                                     <SwiperSlide>
-                                        <img src="./service/tele (1).png" alt='' />
+                                        <img src="./../../assets/telephone/tele (1).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/tele (2).png" alt='' />
+                                        <img src="./../../assets/telephone/tele (2).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/tele (3).png" alt='' />
+                                        <img src="./../../assets/telephone/tele (3).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/tele (4).png" alt='' />
+                                        <img src="./../../assets/telephone/tele (4).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/tele (5).png" alt='' />
+                                        <img src="./../../assets/telephone/tele (5).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/tele (6).png" alt='' />
+                                        <img src="./../../assets/telephone/tele (6).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/tele (7).png" alt='' />
+                                        <img src="./../../assets/telephone/tele (7).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/tele (8).png" alt='' />
+                                        <img src="./../../assets/telephone/tele (8).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/tele (9).png" alt='' />
+                                        <img src="./../../assets/telephone/tele (9).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/tele (10).png" alt='' />
+                                        <img src="./../../assets/telephone/tele (10).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./service/tele (11).png" alt='' />
+                                        <img src="./../../assets/telephone/tele (11).png" alt="robot" />
                                     </SwiperSlide>
                                 </Swiper>
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import about  from '../../assets/About Us Page Sm.mp4';
+import about  from '../../assets/videos/About Us Page Sm.mp4';
 
 
 const AboutVideo = () => {

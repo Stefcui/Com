@@ -22,7 +22,7 @@ const videoSlider = [
         title: "Eilik",
         dis: "dd5d",
         video:"https://www.youtube.com/embed/7N60oFtjBIA",
-        new:"../../assets/1_homepage_video_header.mp4"
+        new:"../../assets/videos/1_homepage_video_header.mp4"
 
 
       },
