@@ -1,7 +1,7 @@
 import React from 'react';
-import playButton from '../../assets/playbtn.png';
-import pauseButton from '../../assets/pausebtn.png';
-import muteButton from '../../assets/mutebtn.png';
+import playButton from '../../assets/icon/playbtn.png';
+import pauseButton from './../../assets/icon/pausebtn.png';
+import muteButton from './../../assets/icon/mutebtn.png';
 import './HeaderVideo.css';
 import HomeVideo from '../Home/HomeVideo';
 import { Route, Routes } from 'react-router-dom';

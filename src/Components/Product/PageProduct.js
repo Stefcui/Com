@@ -65,7 +65,7 @@ const PageProduct = (props) => {
              <div className='d-flex align-items-center'>
              <h2 className=' me-3'>{category.robots[slide].name}</h2>
               <div className="rate">
-                <img src={require("../../assets/RatingStars.png")} alt="rating" />
+                <img src={require("./../../assets/icon/RatingStars.png")} alt="rating" />
                 <p id="rating fw-bold">5</p>
               </div>
              </div>
@@ -104,7 +104,7 @@ const PageProduct = (props) => {
              <div className='d-flex align-items-center'>
              <h2 className=' me-3'>{category.robots[slide].name}</h2>
               <div className="rate">
-                <img src={require("../../assets/RatingStars.png")} alt="rating" />
+                <img src={require("./../../assets/icon/RatingStars.png")} alt="rating" />
                 <p id="rating fw-bold">5</p>
               </div>
              </div>

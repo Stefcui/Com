@@ -269,7 +269,7 @@ const PageDemonstration = () => {
           <div className="deck ">
             <div className="item ">
             <div className="card">
-            <img src={require("../../assets/tickCircle.png")} alt="circle" />
+            <img src={require("./../../assets/icon/tickCircle.png")} alt="circle" />
             <h4> Header</h4>
 
               <p>
@@ -281,7 +281,7 @@ const PageDemonstration = () => {
             </div>
             <div className="item">
             <div className="card">
-            <img src={require("../../assets/customerIssues.png")} alt="customer" />
+            <img src={require("./../../assets/icon/customerIssues.png")} alt="customer" />
             <h4> Header</h4>
 
               <p>Exactly how the robot addresses typical customer issues</p>
@@ -291,7 +291,7 @@ const PageDemonstration = () => {
             <div className="item">
               <div className="card">
 
-              <img src={require("../../assets/roboFacevector.png")} alt="robot" />
+              <img src={require("./../../assets/icon/roboFacevector.png")} alt="robot" />
               <h4> Header</h4>
 
               <p>
@@ -304,7 +304,7 @@ const PageDemonstration = () => {
             </div>
             <div className="item">
             <div className="card">
-            <img src={require("../../assets/tailored.png")} alt="tailored" />
+            <img src={require("./../../assets/icon/tailored.png")} alt="tailored" />
             <h4> Header</h4>
 
               <p>

@@ -24,17 +24,17 @@ const PageContact = () => {
         <div class="contact">
         <div class="container-fluid py-5 sec1">
           <img
-            src={ require("../../../assets/design1.png")}
+            src={ require("./../../../assets/svg/design1.png")}
             class="float"
             alt="img"
           />
           <img
-            src={ require("../../../assets/design2.png")}
+            src={ require("./../../../assets/svg/design2.png")}
             class="float"
             alt="img"
           />
           <img
-            src={ require("../../../assets/design1.png")}
+            src={ require("./../../../assets/svg/design1.png")}
             class="float"
             alt="img"
           />
@@ -154,7 +154,7 @@ title="test"
               <div class="col">
                 <span></span>
                 <div class="card animate hook1">
-                <img src={require("../../../assets/TotalSales.png")} alt="sales" />
+                <img src={require("../../../assets/icon/TotalSales.png")} alt="sales" />
 
                   <h4>Sales</h4>
                   <p>
@@ -169,7 +169,7 @@ title="test"
                 <span></span>
   
                 <div class="card animate hook3">
-                <img src={require("../../../assets/OnlineSupport.png")} alt="support" />
+                <img src={require("./../../../assets/icon/OnlineSupport.png")} alt="support" />
 
                   <h4>Help And Support</h4>
                   <p>
@@ -183,7 +183,7 @@ title="test"
                 <span></span>
   
                 <div class="card animate hook3">
-                <img src={require("../../../assets/Microphone.png")} alt="microphone" />
+                <img src={require("./../../../assets/icon/Microphone.png")} alt="microphone" />
 
                   <h4>Media And Press</h4>
                   <p>
@@ -198,7 +198,7 @@ title="test"
                 <span></span>
   
                 <div class="card animate hook2">
-                  <img src={require("../../../assets/Communication.png")} alt="Communication" />
+                  <img src={require("./../../../assets/icon/Communication.png")} alt="Communication" />
                   <h4> Communication</h4>
                   <p>
                     Here at Roche Robots, we welcome inquiries and feedback. For

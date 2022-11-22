@@ -26,7 +26,7 @@ const MainBody = (props) => {
     }
     return (
         <section >
-            <img src={ require("../../assets/new.jpg")} alt=""  className='main-img'/>
+            <img src={ require("./../../assets/common/new.jpg")} alt=""  className='main-img'/>
             <section className='main-body'  >
             <Social></Social>
             <Routes >

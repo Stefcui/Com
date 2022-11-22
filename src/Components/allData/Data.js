@@ -146,7 +146,7 @@ const data = [
   
                   <!-- Here is your Image . input Your Image File location under the src "" -->
                   
-                  <img src={require("./assets/pdficon.png")} alt="" height="50px">
+                  <img src={require("./assets/pdf/pdficon.png")} alt="" height="50px">
   
   
   
@@ -176,7 +176,7 @@ const data = [
               </div>
               <div class="accordian-bottom" style="display: flex;" >
                 <div class="image  ">
-                  <img src="./assets/pdficon.png" alt="" height="50px">
+                  <img src="./assets/pdf/pdficon.png" alt="" height="50px">
   
                 </div>
                 <div class="accordian-details">
@@ -189,7 +189,7 @@ const data = [
               </div>
               <div class="accordian-bottom" style="display: flex;" >
                 <div class="image  ">
-                  <img src="./assets/pdficon.png" alt="" height="50px">
+                  <img src="./assets/pdf/pdficon.png" alt="" height="50px">
   
                 </div>
                 <div class="accordian-details">
@@ -201,7 +201,7 @@ const data = [
               </div>
               <div class="accordian-bottom" style="display: flex;" >
                 <div class="image  ">
-                  <img src="./assets/pdficon.png" alt="" height="50px">
+                  <img src="./assets/pdf/pdficon.png" alt="" height="50px">
   
                 </div>
                 <div class="accordian-details">
@@ -213,7 +213,7 @@ const data = [
               </div>
               <div class="accordian-bottom" style="display: flex;" >
                 <div class="image  ">
-                  <img src="./assets/pdficon.png" alt="" height="50px">
+                  <img src="./assets/pdf/pdficon.png" alt="" height="50px">
   
                 </div>
                 <div class="accordian-details">
@@ -225,7 +225,7 @@ const data = [
               </div>
               <div class="accordian-bottom" style="display: flex;" >
                 <div class="image  ">
-                  <img src="./assets/pdficon.png" alt="" height="50px">
+                  <img src="./assets/pdf/pdficon.png" alt="" height="50px">
   
                 </div>
                 <div class="accordian-details">
@@ -393,22 +393,22 @@ const data = [
                   <tr>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
+                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
+                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
+                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
+                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
+                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdf/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
+                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdf/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
                   </tr>
                 </table>`,
             },
@@ -556,22 +556,22 @@ const data = [
                   <tr>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
+                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
+                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
+                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
+                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
+                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdf/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
+                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdf/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
                   </tr>
                 </table>`,
             },
@@ -758,7 +758,7 @@ const data = [
 
                 <!-- Here is your Image . input Your Image File location under the src "" -->
                 
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
 
 
@@ -788,7 +788,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -801,7 +801,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -813,7 +813,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -825,7 +825,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -837,7 +837,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -1005,22 +1005,22 @@ const data = [
                   <tr>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
+                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
+                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
+                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
+                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
+                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdf/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
+                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdf/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
                   </tr>
                 </table>`,
             },
@@ -1207,7 +1207,7 @@ const data = [
 
                 <!-- Here is your Image . input Your Image File location under the src "" -->
                 
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
 
 
@@ -1237,7 +1237,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -1250,7 +1250,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -1262,7 +1262,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -1274,7 +1274,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -1286,7 +1286,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -1454,22 +1454,22 @@ const data = [
                   <tr>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
+                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
+                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
+                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
+                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
+                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdf/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
+                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdf/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
                   </tr>
                 </table>`,
             },
@@ -1656,7 +1656,7 @@ const data = [
 
                 <!-- Here is your Image . input Your Image File location under the src "" -->
                 
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
 
 
@@ -1686,7 +1686,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -1699,7 +1699,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -1711,7 +1711,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -1723,7 +1723,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -1735,7 +1735,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -1903,22 +1903,22 @@ const data = [
                   <tr>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
+                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
+                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
+                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
+                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
+                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdf/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
+                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdf/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
                   </tr>
                 </table>`,
             },
@@ -2105,7 +2105,7 @@ const data = [
 
                 <!-- Here is your Image . input Your Image File location under the src "" -->
                 
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
 
 
@@ -2135,7 +2135,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -2148,7 +2148,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -2160,7 +2160,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -2172,7 +2172,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -2184,7 +2184,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -2352,22 +2352,22 @@ const data = [
                   <tr>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
+                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
+                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
+                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
+                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
+                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdf/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
+                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdf/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
                   </tr>
                 </table>`,
             },
@@ -2554,7 +2554,7 @@ const data = [
 
                 <!-- Here is your Image . input Your Image File location under the src "" -->
                 
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
 
 
@@ -2584,7 +2584,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -2597,7 +2597,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -2609,7 +2609,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -2621,7 +2621,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -2633,7 +2633,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -2801,22 +2801,22 @@ const data = [
                   <tr>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
+                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
+                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
+                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
+                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
+                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdf/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
+                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdf/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
                   </tr>
                 </table>`,
             },
@@ -3003,7 +3003,7 @@ const data = [
 
                 <!-- Here is your Image . input Your Image File location under the src "" -->
                 
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
 
 
@@ -3033,7 +3033,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3046,7 +3046,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3058,7 +3058,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3070,7 +3070,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3082,7 +3082,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3250,22 +3250,22 @@ const data = [
                   <tr>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
+                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
+                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
+                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
+                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
+                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdf/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
+                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdf/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
                   </tr>
                 </table>`,
             },
@@ -3452,7 +3452,7 @@ const data = [
 
                 <!-- Here is your Image . input Your Image File location under the src "" -->
                 
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
 
 
@@ -3482,7 +3482,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3495,7 +3495,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3507,7 +3507,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3519,7 +3519,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3531,7 +3531,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3699,22 +3699,22 @@ const data = [
                   <tr>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
+                    <td><a href="./pdf/Zenbo_Junior_user_manual.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Junior User Manual - ASSUS</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
+                    <td><a href="./pdf/Zenbo_best_choice_award.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo Best Choice Award</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
+                    <td><a href="./pdf/Zenbo_in_care_delivery.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Care Delivery</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
+                    <td><a href="./pdf/Zenbo_Assisting_the_Elderly.pdf"><img src="./assets/pdf/pdficon.png"> <br>Zenbo in Assisting the Elderly</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
+                    <td><a href="./pdf/Artificial_Empathy_for_people_with_Dementia.pdf"><img src="./assets/pdf/pdficon.png"> <br>Artificial Empathy for Dementia</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
+                    <td><a href="./pdf/Simulation_Of_An_Assistive_Robot_For_Various_Activities.pdf"><img src="./assets/pdf/pdficon.png"> <br>Simulation of an Assistive Robot For Various Activities</a></td>
                   </tr>
                 </table>`,
             },
@@ -3863,7 +3863,7 @@ const data = [
 
                 <!-- Here is your Image . input Your Image File location under the src "" -->
                 
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
 
 
@@ -3893,7 +3893,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3906,7 +3906,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3918,7 +3918,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3930,7 +3930,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -3942,7 +3942,7 @@ const data = [
             </div>
             <div class="accordian-bottom" style="display: flex;" >
               <div class="image  ">
-                <img src="./assets/pdficon.png" alt="" height="50px">
+                <img src="./assets/pdf/pdficon.png" alt="" height="50px">
 
               </div>
               <div class="accordian-details">
@@ -4112,28 +4112,28 @@ const data = [
                   <tr>
                   </tr>
                     <tr>
-                    <td><a href="./pdf/AndyGirl.pdf"><img src="./assets/pdficon.png"> <br>AndyGirl Manual</a></td>
+                    <td><a href="./pdf/AndyGirl.pdf"><img src="./assets/pdf/pdficon.png"> <br>AndyGirl Manual</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/305_disinfection_robots.pdf"><img src="./assets/pdficon.png"> <br>305 Disinfection Robots Delivered to Hospitals Across EU</a></td>
+                    <td><a href="./pdf/305_disinfection_robots.pdf"><img src="./assets/pdf/pdficon.png"> <br>305 Disinfection Robots Delivered to Hospitals Across EU</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Can_Disinfection_Robots_Reduce_the_Risk_of_Transmission_of_Covid.pdf"><img src="./assets/pdficon.png"> <br>Can Disinfection Robots Reduce the Risk of Transmission of Covid</a></td>
+                    <td><a href="./pdf/Can_Disinfection_Robots_Reduce_the_Risk_of_Transmission_of_Covid.pdf"><img src="./assets/pdf/pdficon.png"> <br>Can Disinfection Robots Reduce the Risk of Transmission of Covid</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Disinfectant_Robots_to_Protect_Against _Covid_19.pdf"><img src="./assets/pdficon.png"> <br>Disinfectant Robots to Protect Against COVID-19</a></td>
+                    <td><a href="./pdf/Disinfectant_Robots_to_Protect_Against _Covid_19.pdf"><img src="./assets/pdf/pdficon.png"> <br>Disinfectant Robots to Protect Against COVID-19</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Autonomous_Virus_Killing_Robots_Fight_COVID-19.pdf"><img src="./assets/pdficon.png"> <br>Autonomous Virus-Killing Robots Fight COVID-19</a></td>
+                    <td><a href="./pdf/Autonomous_Virus_Killing_Robots_Fight_COVID-19.pdf"><img src="./assets/pdf/pdficon.png"> <br>Autonomous Virus-Killing Robots Fight COVID-19</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/UVC-PURGE_A_Novel_Cost_Effective_Disinfection.pdf"><img src="./assets/pdficon.png"> <br>UVC-PURGE: A Novel Cost-Effective Disinfection Robot for Combating COVID-19 Pandemic</a></td>
+                    <td><a href="./pdf/UVC-PURGE_A_Novel_Cost_Effective_Disinfection.pdf"><img src="./assets/pdf/pdficon.png"> <br>UVC-PURGE: A Novel Cost-Effective Disinfection Robot for Combating COVID-19 Pandemic</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Cleaning_Robots_Reduce_Infections_in_Hospitals_and_Public_Spaces.pdf"><img src="./assets/pdficon.png"> <br>Cleaning Robots Reduce Infections in Hospitals and Public Spaces</a></td>
+                    <td><a href="./pdf/Cleaning_Robots_Reduce_Infections_in_Hospitals_and_Public_Spaces.pdf"><img src="./assets/pdf/pdficon.png"> <br>Cleaning Robots Reduce Infections in Hospitals and Public Spaces</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Exploring_the_Applicability_of_Robot_Assisted_UV_Disinfection_in_Radiology.pdf"><img src="./assets/pdficon.png"> <br>Exploring the Applicability of Robot-Assisted UV Disinfection in Radiology</a></td>
+                    <td><a href="./pdf/Exploring_the_Applicability_of_Robot_Assisted_UV_Disinfection_in_Radiology.pdf"><img src="./assets/pdf/pdficon.png"> <br>Exploring the Applicability of Robot-Assisted UV Disinfection in Radiology</a></td>
                   </tr>
                 </table>`,
             },
@@ -4250,25 +4250,25 @@ const data = [
                   <tr>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/305_disinfection_robots.pdf"><img src="./assets/pdficon.png"> <br>305 Disinfection Robots Delivered to Hospitals Across EU</a></td>
+                    <td><a href="./pdf/305_disinfection_robots.pdf"><img src="./assets/pdf/pdficon.png"> <br>305 Disinfection Robots Delivered to Hospitals Across EU</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Can_Disinfection_Robots_Reduce_the_Risk_of_Transmission_of_Covid.pdf"><img src="./assets/pdficon.png"> <br>Can Disinfection Robots Reduce the Risk of Transmission of Covid</a></td>
+                    <td><a href="./pdf/Can_Disinfection_Robots_Reduce_the_Risk_of_Transmission_of_Covid.pdf"><img src="./assets/pdf/pdficon.png"> <br>Can Disinfection Robots Reduce the Risk of Transmission of Covid</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Disinfectant_Robots_to_Protect_Against _Covid_19.pdf"><img src="./assets/pdficon.png"> <br>Disinfectant Robots to Protect Against COVID-19</a></td>
+                    <td><a href="./pdf/Disinfectant_Robots_to_Protect_Against _Covid_19.pdf"><img src="./assets/pdf/pdficon.png"> <br>Disinfectant Robots to Protect Against COVID-19</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Autonomous_Virus_Killing_Robots_Fight_COVID-19.pdf"><img src="./assets/pdficon.png"> <br>Autonomous Virus-Killing Robots Fight COVID-19</a></td>
+                    <td><a href="./pdf/Autonomous_Virus_Killing_Robots_Fight_COVID-19.pdf"><img src="./assets/pdf/pdficon.png"> <br>Autonomous Virus-Killing Robots Fight COVID-19</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/UVC-PURGE_A_Novel_Cost_Effective_Disinfection.pdf"><img src="./assets/pdficon.png"> <br>UVC-PURGE: A Novel Cost-Effective Disinfection Robot for Combating COVID-19 Pandemic</a></td>
+                    <td><a href="./pdf/UVC-PURGE_A_Novel_Cost_Effective_Disinfection.pdf"><img src="./assets/pdf/pdficon.png"> <br>UVC-PURGE: A Novel Cost-Effective Disinfection Robot for Combating COVID-19 Pandemic</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Cleaning_Robots_Reduce_Infections_in_Hospitals_and_Public_Spaces.pdf"><img src="./assets/pdficon.png"> <br>Cleaning Robots Reduce Infections in Hospitals and Public Spaces</a></td>
+                    <td><a href="./pdf/Cleaning_Robots_Reduce_Infections_in_Hospitals_and_Public_Spaces.pdf"><img src="./assets/pdf/pdficon.png"> <br>Cleaning Robots Reduce Infections in Hospitals and Public Spaces</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Exploring_the_Applicability_of_Robot_Assisted_UV_Disinfection_in_Radiology.pdf"><img src="./assets/pdficon.png"> <br>Exploring the Applicability of Robot-Assisted UV Disinfection in Radiology</a></td>
+                    <td><a href="./pdf/Exploring_the_Applicability_of_Robot_Assisted_UV_Disinfection_in_Radiology.pdf"><img src="./assets/pdf/pdficon.png"> <br>Exploring the Applicability of Robot-Assisted UV Disinfection in Radiology</a></td>
                   </tr>
                 </table>`,
             },
@@ -4376,25 +4376,25 @@ const data = [
                   <tr>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/305_disinfection_robots.pdf"><img src="./assets/pdficon.png"> <br>305 Disinfection Robots Delivered to Hospitals Across EU</a></td>
+                    <td><a href="./pdf/305_disinfection_robots.pdf"><img src="./assets/pdf/pdficon.png"> <br>305 Disinfection Robots Delivered to Hospitals Across EU</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Can_Disinfection_Robots_Reduce_the_Risk_of_Transmission_of_Covid.pdf"><img src="./assets/pdficon.png"> <br>Can Disinfection Robots Reduce the Risk of Transmission of Covid</a></td>
+                    <td><a href="./pdf/Can_Disinfection_Robots_Reduce_the_Risk_of_Transmission_of_Covid.pdf"><img src="./assets/pdf/pdficon.png"> <br>Can Disinfection Robots Reduce the Risk of Transmission of Covid</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/Disinfectant_Robots_to_Protect_Against _Covid_19.pdf"><img src="./assets/pdficon.png"> <br>Disinfectant Robots to Protect Against COVID-19</a></td>
+                    <td><a href="./pdf/Disinfectant_Robots_to_Protect_Against _Covid_19.pdf"><img src="./assets/pdf/pdficon.png"> <br>Disinfectant Robots to Protect Against COVID-19</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Autonomous_Virus_Killing_Robots_Fight_COVID-19.pdf"><img src="./assets/pdficon.png"> <br>Autonomous Virus-Killing Robots Fight COVID-19</a></td>
+                    <td><a href="./pdf/Autonomous_Virus_Killing_Robots_Fight_COVID-19.pdf"><img src="./assets/pdf/pdficon.png"> <br>Autonomous Virus-Killing Robots Fight COVID-19</a></td>
                   </tr>
                    <tr>
-                    <td><a href="./pdf/UVC-PURGE_A_Novel_Cost_Effective_Disinfection.pdf"><img src="./assets/pdficon.png"> <br>UVC-PURGE: A Novel Cost-Effective Disinfection Robot for Combating COVID-19 Pandemic</a></td>
+                    <td><a href="./pdf/UVC-PURGE_A_Novel_Cost_Effective_Disinfection.pdf"><img src="./assets/pdf/pdficon.png"> <br>UVC-PURGE: A Novel Cost-Effective Disinfection Robot for Combating COVID-19 Pandemic</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Cleaning_Robots_Reduce_Infections_in_Hospitals_and_Public_Spaces.pdf"><img src="./assets/pdficon.png"> <br>Cleaning Robots Reduce Infections in Hospitals and Public Spaces</a></td>
+                    <td><a href="./pdf/Cleaning_Robots_Reduce_Infections_in_Hospitals_and_Public_Spaces.pdf"><img src="./assets/pdf/pdficon.png"> <br>Cleaning Robots Reduce Infections in Hospitals and Public Spaces</a></td>
                   </tr>
                   <tr>
-                    <td><a href="./pdf/Exploring_the_Applicability_of_Robot_Assisted_UV_Disinfection_in_Radiology.pdf"><img src="./assets/pdficon.png"> <br>Exploring the Applicability of Robot-Assisted UV Disinfection in Radiology</a></td>
+                    <td><a href="./pdf/Exploring_the_Applicability_of_Robot_Assisted_UV_Disinfection_in_Radiology.pdf"><img src="./assets/pdf/pdficon.png"> <br>Exploring the Applicability of Robot-Assisted UV Disinfection in Radiology</a></td>
                   </tr>
                 </table>`,
             },

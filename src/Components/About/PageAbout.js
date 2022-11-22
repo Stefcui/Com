@@ -34,7 +34,7 @@ const PageAbout = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-md-6 col-12 animate hook4">
-                <img src={require("../../assets/standrobot.png")} alt="robot" />
+                <img src={require("./../../assets/common/standrobot.png")} alt="robot" />
             </div>
             <div className="col-md-6 col-12 py-5 px-3 animate hook2 text">
               <h2>ABOUT US</h2>
@@ -123,7 +123,7 @@ const PageAbout = () => {
           </div>
           <div className="row align-items-center flex-row-reverse">
             <div className="col-md-6 col-12 animate hook4">
-              <img src={ require("../../assets/sitrobot.png")} alt="robot" />
+              <img src={ require("./../../assets/common/sitrobot.png")} alt="robot" />
             </div>
             <div className="col-md-6 col-12 py-5 px-3 animate hook2 text">
               <h2>OUR VISION</h2>
@@ -198,7 +198,7 @@ const PageAbout = () => {
           </div>
           <div className="row row-cols-lg-2 row-cols-1">
             <div className="quality animate hook3">
-              <img src={require("../../assets/improveEdu.png")} alt="people" />
+              <img src={require("./../../assets/icon/improveEdu.png")} alt="people" />
               <div>
                 <h4>Improving Education</h4>
                 <p>
@@ -210,7 +210,7 @@ const PageAbout = () => {
               </div>
             </div>
             <div className="quality animate hook3">
-              <img src={require("../../assets/improveManu.png")} alt="tools" />
+              <img src={require("./../../assets/icon/improveManu.png")} alt="tools" />
               <div>
                 <h4>Improving Manufacturing</h4>
                 <p>
@@ -221,7 +221,7 @@ const PageAbout = () => {
               </div>
             </div>
             <div className="quality animate hook3">
-              <img src={require("../../assets/healthcare.png")} alt="health" />
+              <img src={require("./../../assets/icon/healthcare.png")} alt="health" />
               <div>
                 <h4>Enhancing Healthcare</h4>
                 <p>
@@ -233,7 +233,7 @@ const PageAbout = () => {
               </div>
             </div>
             <div className="quality animate hook3">
-              <img src={require("../../assets/boortingEcon.png")} alt="box" />
+              <img src={require("./../../assets/icon/boortingEcon.png")} alt="box" />
               <div>
                 <h4>Boosting The Economy</h4>
                 <p>
@@ -243,7 +243,7 @@ const PageAbout = () => {
               </div>
             </div>
             <div className="quality animate hook3">
-              <img src={require("../../assets/ecohealth.png")} alt="tree" />
+              <img src={require("./../../assets/icon/ecohealth.png")} alt="tree" />
               <div>
                 <h4>Enhancing Eco-Health</h4>
                 <p>
@@ -254,7 +254,7 @@ const PageAbout = () => {
               </div>
             </div>
             <div className="quality animate hook3">
-              <img src={require("../../assets/improveCom.png")} alt="headphone" />
+              <img src={require("./../../assets/icon/improveCom.png")} alt="headphone" />
               <div>
                 <h4>Improving Communication</h4>
                 <p>

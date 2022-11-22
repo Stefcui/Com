@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link, Route, Routes } from 'react-router-dom'
-import logo from '../../assets/roche-robots-logo-v4-transformed.png'
+import logo from './../../assets/logo/roche-robots-logo-v4-transformed.png'
 import './Navbar.css';
 import SubNav from './SubNav';
 

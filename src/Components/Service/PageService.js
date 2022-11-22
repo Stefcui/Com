@@ -33,22 +33,22 @@ const PageService = () => {
 
                                 >
                                     <SwiperSlide>
-                                        <img src="./../../assets/industries/industries1.png" alt="robot" />
+                                        <img src="./../../assets/industries (1).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/industries/industries (2).png" alt="robot" />
+                                        <img src="./../../assets/industries (2).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/industries/industries (3).png" alt="robot" />
+                                        <img src="./../../assets/industries (3).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/industries/industries (4).png" alt="robot" />
+                                        <img src="./../../assets/industries (4).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/industries/industries (5).png" alt="robot" />
+                                        <img src="./../../assets/industries (5).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/industries/industries (6).png" alt="robot" />
+                                        <img src="./../../assets/industries (6).png" alt="robot" />
                                     </SwiperSlide>
                                 </Swiper>
                             </div>
@@ -483,37 +483,37 @@ const PageService = () => {
 
                                 >
                                     <SwiperSlide>
-                                        <img src="./../../assets/telephone/tele (1).png" alt="robot" />
+                                        <img src="./../../assets/Telepresence/tele (1).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/telephone/tele (2).png" alt="robot" />
+                                        <img src="./../../assets/Telepresence/tele (2).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/telephone/tele (3).png" alt="robot" />
+                                        <img src="./../../assets/Telepresence/tele (3).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/telephone/tele (4).png" alt="robot" />
+                                        <img src="./../../assets/Telepresence/tele (4).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/telephone/tele (5).png" alt="robot" />
+                                        <img src="./../../assets/Telepresence/tele (5).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/telephone/tele (6).png" alt="robot" />
+                                        <img src="./../../assets/Telepresence/tele (6).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/telephone/tele (7).png" alt="robot" />
+                                        <img src="./../../assets/Telepresence/tele (7).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/telephone/tele (8).png" alt="robot" />
+                                        <img src="./../../assets/Telepresence/tele (8).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/telephone/tele (9).png" alt="robot" />
+                                        <img src="./../../assets/Telepresence/tele (9).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/telephone/tele (10).png" alt="robot" />
+                                        <img src="./../../assets/Telepresence/tele (10).png" alt="robot" />
                                     </SwiperSlide>
                                     <SwiperSlide>
-                                        <img src="./../../assets/telephone/tele (11).png" alt="robot" />
+                                        <img src="./../../assets/Telepresence/tele (11).png" alt="robot" />
                                     </SwiperSlide>
                                 </Swiper>
 

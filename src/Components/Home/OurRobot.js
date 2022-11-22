@@ -65,12 +65,12 @@ if (el.checked) {
 
                   </div>
                   <img
-                    src={require("../../assets/design2.png")}
+                    src={require("./../../assets/svg/design2.png")}
                     alt="robot"
                     className="float1"
                   />
                   <img
-                    src={require("../../assets/design1.png")}
+                    src={require("./../../assets/svg/design1.png")}
                     alt="robot"
                     className="float2"
                   />
@@ -160,12 +160,12 @@ if (el.checked) {
 
                   </div>
                   <img
-                    src={require("../../assets/design2.png")}
+                    src={require("./../../assets/svg/design2.png")}
                     alt="robot"
                     className="float2"
                   />
                   <img
-                    src={require("../../assets/design1.png")}
+                    src={require("./../../assets/svg/design1.png")}
                     alt="robot"
                     className="float1"
                   />
@@ -223,12 +223,12 @@ if (el.checked) {
                     
                   </div>
                   <img
-                    src={require("../../assets/design2.png")}
+                    src={require("./../../assets/svg/design2.png")}
                     alt="robot"
                     className="float1"
                   />
                   <img
-                    src={require("../../assets/design1.png")}
+                    src={require("./../../assets/svg/design1.png")}
                     alt="robot"
                     className="float2"
                   />
@@ -280,12 +280,12 @@ if (el.checked) {
                     
                   </div>
                   <img
-                    src={require("../../assets/design2.png")}
+                    src={require("./../../assets/svg/design2.png")}
                     alt="robot"
                     className="float2"
                   />
                   <img
-                    src={require("../../assets/design1.png")}
+                    src={require("./../../assets/svg/design1.png")}
                     alt="robot"
                     className="float1"
                   />
@@ -344,12 +344,12 @@ if (el.checked) {
                     
                   </div>
                   <img
-                    src={require("../../assets/design2.png")}
+                    src={require("./../../assets/svg/design2.png")}
                     alt="robot"
                     className="float1"
                   />
                   <img
-                    src={require("../../assets/design1.png")}
+                    src={require("./../../assets/svg/design1.png")}
                     alt="robot"
                     className="float2"
                   />
@@ -407,12 +407,12 @@ if (el.checked) {
                     
                   </div>
                   <img
-                    src={require("../../assets/design2.png")}
+                    src={require("./../../assets/svg/design2.png")}
                     alt="robot"
                     className="float2"
                   />
                   <img
-                    src={require("../../assets/design1.png")}
+                    src={require("./../../assets/svg/design1.png")}
                     alt="robot"
                     className="float1"
                   />
@@ -472,7 +472,7 @@ if (el.checked) {
           </p>
           <div className="row justify-content-around align-items-center">
             <div className="col-lg-5 col-sm-8 animate hook4 position-relative overflow-hidden py-6">
-              <img src={require("../../assets/predicting.png")} alt="robot" srcSet="" />
+              <img src={require("./../../assets/icon/predicting.png")} alt="robot" srcSet="" />
               <div className="anim"></div>
             </div>
             <div className="col-lg-6 col-sm-8 text py-3 animate hook2">
@@ -553,13 +553,13 @@ much space you have available.
               <label htmlFor="read2" className="reveal-btn">READ MORE</label>
             </div>
             <div className="col-lg-5 col-sm-8 animate hook4 position-relative overflow-hidden py-6">
-              <img src={require("../../assets/machine-learning.png")} alt="robot" srcSet="" />
+              <img src={require("./../../assets/icon/machine-learning.png")} alt="robot"  />
               <div className="anim anim2"></div>
             </div>
           </div>
           <div className="row justify-content-around align-items-center margin-botttom">
             <div className="col-lg-5 col-sm-8 animate hook4 position-relative overflow-hidden py-6">
-              <img src={require("../../assets/automation.png")} alt="robot" srcSet="" />
+              <img src={require("./../../assets/icon/automation.png")} alt="robot"  />
               <div className="anim anim3"></div>
             </div>
             <div className="col-lg-6 col-sm-8 text py-3 animate hook2 ">

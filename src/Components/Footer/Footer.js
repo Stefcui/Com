@@ -1,6 +1,6 @@
 import React, {  } from 'react';
-import logo from '../../assets/roche-robots-logo-v4-transformed.png';
-import footer from '../../assets/robot-hand-finger-ai-background-technology-graphics.png'
+import logo from './../../assets/logo/roche-robots-logo-v4-transformed.png';
+import footer from './../../assets/common/robot-hand-finger-ai-background-technology-graphics.png'
 import './Footer.css';
 const Footer = () => {
     return (
