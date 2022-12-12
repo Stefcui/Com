@@ -445,6 +445,185 @@ if (el.checked) {
                 </div>
               </div>
             </div>
+            <div className="col animate hook1">
+              <div className="card">
+                <div className="card-header">
+                <div className="grid">
+
+
+
+                {
+                      robotImages.medicalRobots.map( pic => {
+                        return (
+                          <div className='img'>
+                            <Link to={`/products/${data[6].category}`}><img src={pic.img}  key={pic.img} alt="robot"  onClick={()=>IndexHnadler(7)} /></Link>
+                            </div>
+    
+                        )
+                      })
+                    }
+
+
+                    
+                  </div>
+                  <img
+                    src={require("./../../assets/svg/design2.png")}
+                    alt="robot"
+                    className="float2"
+                  />
+                  <img
+                    src={require("./../../assets/svg/design1.png")}
+                    alt="robot"
+                    className="float1"
+                  />
+                </div>
+                <div className="card-body">
+                  <h4>Medical Robots</h4>
+                  <p className="visible-text">
+                  One of the most promising applications of medical robots we specialize in is in the field of surgery. Traditionally, surgery has been highly invasive, requiring large incisions and long recovery times. However, surgical robots are changing all that. These machines can help doctors accurately perform delicate operations, resulting in shorter incisions and ...
+                  </p>
+                  <p className="hidden-text">
+                  One of the most promising applications of medical robots we specialize in is in the field of surgery. Traditionally, surgery has been highly invasive, requiring large incisions and long recovery times. However, surgical robots are changing all that. These machines can help doctors accurately perform delicate operations, resulting in shorter incisions and  recovery periods. In addition, surgical robots can often Medical robots are also being used in other areas of medicine. For example, robots are now being used to dispense medication in hospitals and clinics. These machines can accurately measure and dispense medications, which can help reduce errors and improve patient safety. In addition, medical robots are being used to assist in physical therapy and rehabilitation. These machines can help patients regain strength and mobility after an injury or illness.
+                  </p>
+                  <input type="checkbox" id="read10" className="reveal-toggler" />
+                </div>
+                <div className="card-footer">
+                <label htmlFor="read10" className="reveal-btn">READ MORE</label>
+                </div>
+              </div>
+            </div>
+            <div className="col animate hook3">
+              <div className="card">
+                <div className="card-header">
+                <div className="grid">
+
+
+
+                {
+                      robotImages.deliveryRobots.map( pic => {
+                        return (
+                          <div className='img'>
+                            <Link to={`/products/${data[6].category}`}><img src={pic.img}  key={pic.img} alt="robot"  onClick={()=>IndexHnadler(6)} /></Link>
+                            </div>
+    
+                        )
+                      })
+                    }
+
+
+                    
+                  </div>
+                  <img
+                    src={require("./../../assets/svg/design1.png")}
+                    alt="robot"
+                    className="float2"
+                  />
+                  <img
+                    src={require("./../../assets/svg/design2.png")}
+                    alt="robot"
+                    className="float1"
+                  />
+                </div>
+                <div className="card-body">
+                  <h4>Delivery Robots</h4>
+                  <p className="visible-text">
+                  Delivery robots will revolutionize the way we have done things for
+              thousands of years. A doctor will never be out of reach of his
+              equipment when the cabinet of medical equipment will come to him
+              when he calls to the cabinet. Restaurants will be able to set and
+              clear tables with the use of robots. They will take orders, run
+              errands, seat people at tables and even take ...
+                  </p>
+                  <p className="hidden-text">
+                  Delivery robots will revolutionize the way we have done things for
+              thousands of years. A doctor will never be out of reach of his
+              equipment when the cabinet of medical equipment will come to him
+              when he calls to the cabinet. Restaurants will be able to set and
+              clear tables with the use of robots. They will take orders, run
+              errands, seat people at tables and even take payment. Airlines
+              robots will greet you exiting the  Delivery robots will revolutionize the way we have done things for
+              thousands of years. A doctor will never be out of reach of his
+              equipment when the cabinet of medical equipment will come to him
+              when he calls to the cabinet. Restaurants will be able to set and
+              clear tables with the use of robots. They will take orders, run
+              errands, seat people at tables and even take payment. Airlines
+              robots will greet you exiting the plane and carry your baggage to
+              the pickup zone. Now, with a combination of sensors, cameras,
+              facial recognition, and mobile technology, delivery robots will
+              make business more cost-efficient, while working tirelessly,
+              faster and smarter.
+                  </p>
+                  <input type="checkbox" id="read11" className="reveal-toggler" />
+                </div>
+                <div className="card-footer">
+                <label htmlFor="read11" className="reveal-btn">READ MORE</label>
+                </div>
+              </div>
+            </div> 
+             <div className="col animate hook2">
+              <div className="card">
+                <div className="card-header">
+                <div className="grid">
+
+
+
+                {
+                      robotImages.serviceRobots.map( pic => {
+                        return (
+                          <div className='img'>
+                            <Link to={`/products/${data[6].category}`}><img src={pic.img}  key={pic.img} alt="robot"  onClick={()=>IndexHnadler(6)} /></Link>
+                            </div>
+    
+                        )
+                      })
+                    }
+
+
+                    
+                  </div>
+                  <img
+                    src={require("./../../assets/svg/design2.png")}
+                    alt="robot"
+                    className="float2"
+                  />
+                  <img
+                    src={require("./../../assets/svg/design1.png")}
+                    alt="robot"
+                    className="float1"
+                  />
+                </div>
+                <div className="card-body">
+                  <h4>Service robots</h4>
+                  <p className="visible-text">
+                  Service robots are becoming increasingly popular in various
+              settings, from hospitals and schools to offices and factories. At
+              our company, we specialize in creating customized service robots
+              designed to meet our client's specific needs. For example, we have
+              created robots that can assist patients in hospitals, deliver
+              items to classrooms, and even help with factory tasks ...
+                  </p>
+                  <p className="hidden-text">
+                  Service robots are becoming increasingly popular in various
+              settings, from hospitals and schools to offices and factories. At
+              our company, we specialize in creating customized service robots
+              designed to meet our client's specific needs. For example, we have
+              created robots that can assist patients in hospitals, deliver
+              items to classrooms, and even help with factory tasks.
+              <br /><br />
+              Each service robot is equipped with a range of sensors and cameras
+              that allow it to navigate its environment and complete its tasks
+              efficiently. In addition, our service robots can communicate with
+              humans, providing necessary instructions and information. As the
+              demand for service robots continues to grow, we are proud to be at
+              the forefront of this rapidly evolving industry.
+                  </p>
+                  <input type="checkbox" id="read12" className="reveal-toggler" />
+                </div>
+                <div className="card-footer">
+                <label htmlFor="read12" className="reveal-btn">READ MORE</label>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

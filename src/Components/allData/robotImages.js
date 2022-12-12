@@ -132,6 +132,72 @@ const robotImages =
         img : require ("../../OurRobots/Emo.png" )
     },  
 
+],    
+        medicalRobots:
+        [
+
+    {
+        id:51,
+        img : require ("../../OurRobots/medicalRobot1.png" )
+    },  
+
+    {
+        id:15,
+        img : require ("../../OurRobots/medicalRobot2.png" )
+    },  
+    {
+        id:155,
+        img : require ("../../OurRobots/medicalRobot3.png" )
+    },  
+    {
+        id:1555,
+        img : require ("../../OurRobots/medicalRobot4.png" )
+    },  
+
+],    
+        deliveryRobots:
+        [
+
+    {
+        id:51,
+        img : require ("../../OurRobots/deliveryRobot1.png" )
+    },  
+
+    {
+        id:15,
+        img : require ("../../OurRobots/deliveryRobot2.jpg" )
+    },  
+    {
+        id:155,
+        img : require ("../../OurRobots/deliveryRobot3.png" )
+    },  
+    {
+        id:1555,
+        img : require ("../../OurRobots/deliveryRobot4.png" )
+    },  
+
+],    
+        serviceRobots:
+        [
+
+    {
+        id:51,
+        img : require ("../../OurRobots/serviceRobot1.png" )
+    },  
+
+    {
+        id:15,
+        img : require ("../../OurRobots/serviceRobot2.png" )
+    },  
+    {
+        id:155,
+        img : require ("../../OurRobots/serviceRobot3.png" )
+    },  
+    {
+        id:1555,
+        img : require ("../../OurRobots/serviceRobot4.jpg" )
+    },  
+
 ]
 
                     
