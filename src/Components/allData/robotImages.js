@@ -165,7 +165,7 @@ const robotImages =
 
     {
         id:15,
-        img : require ("../../OurRobots/deliveryRobot2.jpg" )
+        img : require ("../../OurRobots/deliveryRobot2.png" )
     },  
     {
         id:155,
@@ -195,7 +195,7 @@ const robotImages =
     },  
     {
         id:1555,
-        img : require ("../../OurRobots/serviceRobot4.jpg" )
+        img : require ("../../OurRobots/serviceRobot4.png" )
     },  
 
 ]
